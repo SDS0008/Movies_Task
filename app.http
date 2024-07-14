@@ -1,0 +1,28 @@
+GET http://localhost:6666/movies/
+###
+
+GET http://localhost:6666/movies/2
+###
+
+GET http://localhost:6666/directors/
+###
+
+GET http://localhost:6666/directors/2
+###
+
+GET http://localhost:6666/directors/2/
+###
+
+
+
+
+
+
+
+
+
+
+
+
+GET http://localhost:6666/directors/2
+###
